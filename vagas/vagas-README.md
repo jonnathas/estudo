@@ -12,8 +12,22 @@ Sistema para conectar mão de obra à vagas de emprego.
 1. Para se cadastrar como recrutador um usuário precisa de: 
     * nome completo do usuário; 
     * nome da empresa a qual faz parte;
-    * cnpj da empresa a qual faz parte; 
+    * cnpj da empresa a qual faz parte;
+    * e-mail;
+    * telefone.
+2. Para cadastrar uma vaga ela deve ter:
+    * cargo
+    * salário
+    * descrição
+    * jornada
+    * localização
+    * tipo de contrato
 
 
 ## Casos de uso
 ![Diagrama de casos de uso](./diagramas/casos-de-uso.svg)
+
+## Diagrama de entidades
+![Diagrama de entidades](./diagramas/entidades.svg)
+
+
