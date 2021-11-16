@@ -1,1 +1,1 @@
-# Este é um repositorio para gardar exercícios e seus diagramas.
+# Este é um repositorio para guardar exercícios e seus diagramas.
